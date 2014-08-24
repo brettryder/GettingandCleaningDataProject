@@ -12,20 +12,20 @@ Codebook
         * walking upstairs
         * walking downstairs
 3. Columns 3 to 88 **Measures** based on the mean of the measurements
-    3. tbodyaccmeanx
-    4. tbodyaccmeany
-    5. tbodyaccmeanz
-    6. tbodyaccstdx
-    7. tbodyaccstdy
-    8. tbodyaccstdz
-    9. tgravityaccmeanx
-    10. tgravityaccmeany
-    11. tgravityaccmeanz
-    12. tgravityaccstdx
-    13. tgravityaccstdy
-    14.	tgravityaccstdz
-    15.	tbodyaccjerkmeanx
-    16.	tbodyaccjerkmeany
+   3. tbodyaccmeanx
+   4. tbodyaccmeany
+   5. tbodyaccmeanz
+   6. tbodyaccstdx
+   7. tbodyaccstdy
+   8. tbodyaccstdz
+   9. tgravityaccmeanx
+   10. tgravityaccmeany
+   11. tgravityaccmeanz
+   12. tgravityaccstdx
+   13. tgravityaccstdy
+   14.	tgravityaccstdz
+   15.	tbodyaccjerkmeanx
+   16.	tbodyaccjerkmeany
     17.	tbodyaccjerkmeanz
     18.	tbodyaccjerkstdx
     19.	tbodyaccjerkstdy
